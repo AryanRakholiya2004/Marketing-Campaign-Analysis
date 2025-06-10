@@ -3,7 +3,7 @@ import sys
 from dataclasses import dataclass
 import mlflow
 import dagshub
-from urllib import urlparse
+from urllib.parse import urlparse
 
 # Project imports
 from src.marketing_campaign_analysis.exception import CustomException
