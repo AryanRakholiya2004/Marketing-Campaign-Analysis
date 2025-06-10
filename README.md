@@ -2,7 +2,7 @@
 
 ---
 ## ✉️ Project overview
-
+3
 > Uncover valuable insights from marketing campaigns with the Marketing-Campaign-Analysis project! This project leverages Python and popular data science libraries like pandas, scikit-learn, and matplotlib to analyze marketing data, perform exploratory data analysis (EDA), and build predictive models. The project includes comprehensive pipelines for both training and prediction, along with modular components for data ingestion, transformation, model training, and evaluation. Explore the provided Jupyter notebooks for detailed EDA and machine learning model development. With its structured approach, this project offers a robust framework for understanding marketing campaign performance and driving data-informed decisions.
 
 
@@ -10,7 +10,7 @@
 
 ## 🍵 Features
 
-<code>❯ REPLACE-ME</code>
+- End to end data pipeline
 
 ---
 
@@ -49,9 +49,13 @@ Marketing-Campaign-Analysis/
 ---
 
 ## 🛠️ Technologies Used
+
 This project uses:
 - jupyter notebook
 - python
+- **Data Visualization** - Matplotlib, Seaborn
+- $ac$
+- 
 
 ---
 
